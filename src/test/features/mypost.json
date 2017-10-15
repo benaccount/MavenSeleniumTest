@@ -1,0 +1,23 @@
+{
+    "data": {
+        "shipFrom": {
+            "country": "US11",
+            "region": ""
+        },
+        "shipTo": {
+            "country": "US",
+            "region": "NY"
+        },
+        "currency": "USD",
+        "shipping": {
+            "method": "COURIER",
+            "cost": 18.32
+        },
+        "items": [{
+            "mid": 1232,
+            "sku": "000000000004888144",
+            "qty": 1,
+            "cost": 2789.99
+        }]
+    }
+}
